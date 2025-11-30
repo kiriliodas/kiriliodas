@@ -5,10 +5,12 @@
 
   <br/>
   
-  <!-- TYPING ANIMATION -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%8E%A8+Web+Designer;%F0%9F%90%8D+Python+Developer;%F0%9F%8E%AE+Roblox+Scripter" alt="Typing SVG" />
-  </a>
+  <!-- TITLES WITH FONT AWESOME -->
+  <h3>
+    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/palette.svg" width="20" height="20" style="filter: invert(1)"/> Web Designer &nbsp;|&nbsp;
+    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/code.svg" width="20" height="20"/> Python Dev &nbsp;|&nbsp;
+    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/gamepad.svg" width="20" height="20"/> Roblox Scripter
+  </h3>
 
   <br/>
   
@@ -29,14 +31,12 @@
 <br/>
 
 <!-- ABOUT ME -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
+## <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/user.svg" width="25" height="25"/> **About Me**
 
 ```typescript
 const kiriliodas = {
-    pronouns: "he" | "him",
-    location: "France 🇫🇷",
     currentFocus: "Building immersive UI for FPS Roblox games",
     learning: ["API Integration", "Advanced Web Development"],
-    funFact: "I can spend hours tweaking a single UI element until it's perfect 🎯",
+    funFact: "I can spend hours tweaking a single UI element until it's perfect",
     motto: "Pixel perfection is not optional, it's essential."
 };
